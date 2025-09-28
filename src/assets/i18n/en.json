@@ -1,0 +1,12 @@
+{
+    "title": "Welcome to the App",
+    "greeting": "Hello, how are you?",
+    "menu": {
+      "home": "Home",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "btn_message":"Message",
+    "swal_title":"Hello¡",
+    "swal_text":"Welcome to my multilingual i18n app"
+  }
